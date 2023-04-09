@@ -1,9 +1,32 @@
-# 💫 About Me:
+## About Me:
 Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science and Engineering at Sungkyunkwan University (SKKU). I am interested to work in a position related to Data Science and Machine Learning.<br><br><b>Reach me:</b>        tanvirislamnwu@gmail.com | tanvirnwu@g.skku.edu
 
-
 ## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<ul>
+  <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn</li>
+  <li>MySQL</li>
+</ul>
+
+## My Research Papers:
+
+#### Springer & ACM:
+<ul>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-5148-2_48">An Empirical Study on Diabetes Mellitus Prediction Using Apriori Algorithm</a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-3607-6_7">Diabetes Mellitus Risk Prediction Using Artificial Neural Network</a></li>
+  <li><a href="https://dl.acm.org/doi/10.1145/3377049.3377130">A Machine Learning Approach to Identify the Correlation and Association among the Students' Educational Behavior</a></li>
+</ul>
+
+#### IEEE
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/document/9225551">Diabetes Mellitus Prediction using Different Ensemble Machine Learning Approaches</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/8944552">An empirical study to predict diabetes mellitus using K-means and hierarchical clustering techniques</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/9225430">Typical and non-typical diabetes disease prediction using random forest algorithm</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/9225662">Human behavior analysis using association rule mining techniques</a></li>
+  <li><a href="https://dl.acm.org/doi/10.1145/3377049.3377130">A Machine Learning Approach to Identify the Correlation and Association among the Students' Educational Behavior</a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/8944499">Identification of Cyanide within Hollow Core Photonics Crystal Fiber</a></li>
+</ul>
+
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanvirnwu&theme=dark&hide_border=false)<br/>
