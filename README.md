@@ -1,15 +1,15 @@
-## About Me:
-Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science and Engineering at Sungkyunkwan University (SKKU). I am interested to work in a position related to Data Science and Machine Learning.<br><br><b>Reach me:</b>        tanvirislamnwu@gmail.com | tanvirnwu@g.skku.edu
+## About Tanvir
+Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science and Engineering at Sungkyunkwan University (SKKU). I am interested to work in a position related to Data Science and Machine Learning.<br><br><b>Reach me:</b> tanvirnwu@g.skku.edu
 
-## Tech Stack:
+## Tech Stack
 <ul>
   <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn</li>
   <li>MySQL</li>
 </ul>
 
-## My Research Papers:
+## Tanvir's Research Papers
 
-#### Springer & ACM:
+#### Springer & ACM
 <ul>
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-5148-2_48">An Empirical Study on Diabetes Mellitus Prediction Using Apriori Algorithm</a></li>
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-3607-6_7">Diabetes Mellitus Risk Prediction Using Artificial Neural Network</a></li>
@@ -28,7 +28,7 @@ Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science
 
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tanvirnwu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
