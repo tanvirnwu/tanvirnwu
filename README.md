@@ -26,6 +26,10 @@ Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science
   <li><a href="https://ieeexplore.ieee.org/document/8944499">Identification of Cyanide within Hollow Core Photonics Crystal Fiber</a></li>
 </ul>
 
+### See more on Tanvir's <a href="https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en&authuser=1" style="color: #E54818;">Google Scholar profile.</a></br>
+
+
+
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
