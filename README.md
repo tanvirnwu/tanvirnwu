@@ -5,6 +5,7 @@ Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science
 <ul>
   <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn</li>
   <li>MySQL</li>
+  <li>Data Visualization Tools: Power BI | Tableau | Excel</li>
 </ul>
 
 ## Tanvir's Research Papers
