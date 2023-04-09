@@ -4,7 +4,7 @@ Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science
 ## Tech Stack
 <ul>
   <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn</li>
-  <li>MySQL</li>
+  <li>Database: MySQL</li>
   <li>Data Visualization Tools: Power BI | Tableau | Excel</li>
 </ul>
 
