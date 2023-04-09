@@ -29,17 +29,11 @@ Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science
 ### See more on Tanvir's <a href="https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en&authuser=1" style="color: #E54818;">Google Scholar profile.</a></br>
 
 
-
+---
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tanvirnwu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirnwu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanvirnwu&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=tanvirnwu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
