@@ -1,5 +1,5 @@
 ## About Tanvir
-Hello! This is Md Tanvir Islam. Currently, I am doing Master in Computer Science and Engineering at Sungkyunkwan University (SKKU). I am interested to work in a position related to Data Science and Machine Learning.<br><br><b>Reach me:</b> tanvirnwu@g.skku.edu
+Hello! This is Md Tanvir Islam. I am doing Master in Computer Science and Engineering at Sungkyunkwan University (SKKU). I am interested to work in a position related to Data Science and Machine Learning.<br><br><b>Reach me:</b> tanvirnwu@g.skku.edu
 
 ## Tech Stack
 <ul>
