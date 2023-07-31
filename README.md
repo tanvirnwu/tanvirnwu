@@ -11,7 +11,7 @@
   <li>Design Tools: Adobe Illustrator | Adobe Photoshop | Figma</li>
 </ul>
 
-## Tanvir's Research Papers
+## Research Contributions
 
 #### Springer & ACM
 <ul>
