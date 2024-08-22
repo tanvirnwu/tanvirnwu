@@ -11,8 +11,11 @@
   <li>Design Tools: Adobe Illustrator | Adobe Photoshop | Figma</li>
 </ul>
 
-## Research Contributions
 
+
+## [Research Contributions](https://tanvirnwu.github.io/pages/publications)
+
+<!--
 #### Springer & ACM
 <ul>
   <li><a href="https://link.springer.com/chapter/10.1007/978-981-15-5148-2_48">An Empirical Study on Diabetes Mellitus Prediction Using Apriori Algorithm</a></li>
@@ -31,7 +34,7 @@
 </ul>
 
 ### See more on Tanvir's <a href="https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en&authuser=1" style="color: #E54818;">Google Scholar profile.</a></br>
-
+-->
 
 ---
 
