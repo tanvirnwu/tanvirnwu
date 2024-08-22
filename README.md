@@ -9,6 +9,7 @@
   <li>Database: PostgreSQL | MySQL</li>
   <li>Data Visualization Tools: Power BI | Tableau | Excel</li>
   <li>Design Tools: Adobe Illustrator | Adobe Photoshop | Figma</li>
+  <li>Other Tools: Overleaf | PyCahrm | Jupyter | Visual Studio</li>
 </ul>
 
 
