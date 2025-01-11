@@ -3,7 +3,7 @@
 <br><br>
 <b>Email:</b> tanvirnwu@g.skku.edu
 
-### [Research Outcomes](https://tanvirnwu.github.io/pages/publications)
+<b>Research Outcomes:</b> [Recent Works](https://tanvirnwu.github.io/pages/publications) | [Google Scholar](https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en) 
 
 
 ## Tech Stack
