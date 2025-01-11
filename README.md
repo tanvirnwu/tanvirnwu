@@ -3,6 +3,9 @@
 <br><br>
 <b>Email:</b> tanvirnwu@g.skku.edu
 
+### [Research Outcomes](https://tanvirnwu.github.io/pages/publications)
+
+
 ## Tech Stack
 <ul>
   <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn | Keras | PyTorch | PySpark</li>
@@ -12,9 +15,6 @@
   <li>Other Tools: Overleaf | PyCahrm | Jupyter | Visual Studio</li>
 </ul>
 
-
-
-## [Research Contributions](https://tanvirnwu.github.io/pages/publications)
 
 <!--
 #### Springer & ACM
