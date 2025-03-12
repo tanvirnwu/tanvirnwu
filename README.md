@@ -7,16 +7,6 @@
 
 ---
 
-## Tech Stack
-<ul>
-  <li>Python: Numpy | Pandas | Matplotlib | Seaborn | Scikit-learn | Keras | PyTorch | PySpark</li>
-  <li>Database: PostgreSQL | MySQL</li>
-  <li>Data Visualization Tools: Power BI | Tableau | Excel</li>
-  <li>Design Tools: Adobe Illustrator | Adobe Photoshop | Figma</li>
-  <li>Other Tools: Overleaf | PyCahrm | Jupyter | Visual Studio</li>
-</ul>
-
-
 <!--
 #### Springer & ACM
 <ul>
